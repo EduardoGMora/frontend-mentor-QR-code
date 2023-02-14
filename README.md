@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 ```html
-<h1>Major learning</h1>
+<h1>Major learnings</h1>
 <p>Well in my opinion this is a nice project to learn and to practice more about HTML and CSS.</p>
 <ul>
   <li>I could learn more about the atribute display flex</li>
